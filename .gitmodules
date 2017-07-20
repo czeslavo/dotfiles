@@ -3,7 +3,7 @@
 	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
 [submodule "bundle/solarized-colors"]
 	path = bundle/solarized-colors
-	url = git://github.com/altercation/vim-colors-solarized.git
+	url = https://github.com/altercation/vim-colors-solarized.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
